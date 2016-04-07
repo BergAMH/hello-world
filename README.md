@@ -1,2 +1,2 @@
 # hello-world
-this is my first github repository
+Trying out github for the second time today - hopefully it works! 
